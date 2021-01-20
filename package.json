@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/alestor123/HACKTOBER/issues"
   },
-  "homepage": "https://github.com/alestor123/HACKTOBER#readme"
+  "homepage": "https://github.com/alestor123/HACKTOBER#readme",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
 }
