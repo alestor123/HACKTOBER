@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "This is a simple code for getting stats of the hacktober fest user",
   "main": "App.js",
+  "bin": {
+    "hacktoberfest": "cli.js"
+  },  
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
